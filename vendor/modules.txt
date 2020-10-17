@@ -1,0 +1,71 @@
+# github.com/alibabacloud-go/Viapiutils-20200401 v1.1.0
+github.com/alibabacloud-go/Viapiutils-20200401/client
+# github.com/alibabacloud-go/debug v0.0.0-20190504072949-9472017b5c68
+github.com/alibabacloud-go/debug/debug
+# github.com/alibabacloud-go/endpoint-util v1.1.0
+github.com/alibabacloud-go/endpoint-util/service
+# github.com/alibabacloud-go/tea v1.1.10
+## explicit
+github.com/alibabacloud-go/tea/tea
+github.com/alibabacloud-go/tea/utils
+# github.com/alibabacloud-go/tea-fileform v1.1.0
+github.com/alibabacloud-go/tea-fileform/service
+# github.com/alibabacloud-go/tea-oss-sdk v1.1.0
+github.com/alibabacloud-go/tea-oss-sdk/client
+# github.com/alibabacloud-go/tea-oss-utils v1.1.0
+github.com/alibabacloud-go/tea-oss-utils/service
+# github.com/alibabacloud-go/tea-rpc v1.1.0
+github.com/alibabacloud-go/tea-rpc/client
+# github.com/alibabacloud-go/tea-rpc-utils v1.1.0
+github.com/alibabacloud-go/tea-rpc-utils/service
+# github.com/alibabacloud-go/tea-utils v1.1.1
+github.com/alibabacloud-go/tea-utils/service
+# github.com/alibabacloud-go/tea-xml v1.1.0
+github.com/alibabacloud-go/tea-xml/service
+# github.com/alibabacloud-go/viapi-tool v1.0.1
+github.com/alibabacloud-go/viapi-tool/client
+# github.com/alibabacloud-go/viapi-utils v1.0.1
+## explicit
+github.com/alibabacloud-go/viapi-utils/client
+# github.com/aliyun/alibaba-cloud-sdk-go v1.61.488
+## explicit
+github.com/aliyun/alibaba-cloud-sdk-go/sdk
+github.com/aliyun/alibaba-cloud-sdk-go/sdk/auth
+github.com/aliyun/alibaba-cloud-sdk-go/sdk/auth/credentials
+github.com/aliyun/alibaba-cloud-sdk-go/sdk/auth/credentials/provider
+github.com/aliyun/alibaba-cloud-sdk-go/sdk/auth/signers
+github.com/aliyun/alibaba-cloud-sdk-go/sdk/endpoints
+github.com/aliyun/alibaba-cloud-sdk-go/sdk/errors
+github.com/aliyun/alibaba-cloud-sdk-go/sdk/requests
+github.com/aliyun/alibaba-cloud-sdk-go/sdk/responses
+github.com/aliyun/alibaba-cloud-sdk-go/sdk/utils
+# github.com/aliyun/credentials-go v1.1.0
+github.com/aliyun/credentials-go/credentials
+github.com/aliyun/credentials-go/credentials/request
+github.com/aliyun/credentials-go/credentials/response
+github.com/aliyun/credentials-go/credentials/utils
+# github.com/go-yaml/yaml v2.1.0+incompatible
+## explicit
+# github.com/jmespath/go-jmespath v0.0.0-20180206201540-c2b33e8439af
+github.com/jmespath/go-jmespath
+# github.com/json-iterator/go v1.1.5
+github.com/json-iterator/go
+# github.com/modern-go/concurrent v0.0.0-20180306012644-bacd9c7ef1dd
+github.com/modern-go/concurrent
+# github.com/modern-go/reflect2 v0.0.0-20180701023420-4b7aa43c6742
+github.com/modern-go/reflect2
+# github.com/tencentcloud/tencentcloud-sdk-go v1.0.17
+## explicit
+github.com/tencentcloud/tencentcloud-sdk-go/tencentcloud/bda/v20200324
+github.com/tencentcloud/tencentcloud-sdk-go/tencentcloud/common
+github.com/tencentcloud/tencentcloud-sdk-go/tencentcloud/common/errors
+github.com/tencentcloud/tencentcloud-sdk-go/tencentcloud/common/http
+github.com/tencentcloud/tencentcloud-sdk-go/tencentcloud/common/profile
+github.com/tencentcloud/tencentcloud-sdk-go/tencentcloud/iai/v20200303
+# golang.org/x/net v0.0.0-20200506145744-7e3656a0809f
+golang.org/x/net/internal/socks
+golang.org/x/net/proxy
+# golang.org/x/time v0.0.0-20200416051211-89c76fbcd5d1
+golang.org/x/time/rate
+# gopkg.in/ini.v1 v1.56.0
+gopkg.in/ini.v1
