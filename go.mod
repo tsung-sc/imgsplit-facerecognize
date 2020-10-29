@@ -1,4 +1,4 @@
-module lianxi/rxfg
+module github.com/tsung-sc/imgsplit-facerecognize-base-on-golang
 
 go 1.14
 
